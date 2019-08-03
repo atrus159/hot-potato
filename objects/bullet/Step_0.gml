@@ -6,6 +6,19 @@ if (global.paused == false){
 	
 	motion_set(bl_dir, bl_speed);
 	
+	//acticate the emmiter
+	//part_emitter_region(ps, ind, xmin, xmax, ymin, ymax, shape, distribution
+
+	//define the region area of the emitter
+	//x, y value for storing the positions
+	
+	part_emitter_region(trail_system, par_emit, x - 5, x + 5, y -5 , y + 5, 0,0);
+	
+    //activate the burst
+	part_emitter_burst(trail_system ,par_emit , par_blt , 5);
+	//(ps, emit, partype, number of particles)
+	
+	
 	//create the bullet trail
 	
 	//for ( var i = 0; i < blt_num; i ++){
