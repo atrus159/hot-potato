@@ -9,7 +9,11 @@ if (global.paused == false){
 	
 	for ( var i = 0; i < blt_num; i ++){
 		
-		instance_create( lengthdir_x( i + 1, bl_dir + 180) , lengthdir_y(i + 1, bl_dir + 180), bullet_trail);
-		
-		
+		var blt;
+		blt = instance_create( lengthdir_x( i + 1, bl_dir + 180) , lengthdir_y(i + 1, bl_dir + 180), bullet_trail);
+		with (blt){
+			blt_alpha = blt_alpha / i;
+		}
+	}
+	
 }
