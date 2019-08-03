@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01628d1b-8fbf-4f2f-88c7-e36bd6cbc9c0",
+            "Value": {
+                "id": "82278116-f670-414d-87ab-0ea4ba3cb9ef",
+                "resourcePath": "objects\\catch\\catch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0561a6e7-ac2d-4241-98b4-da81912cca33",
             "Value": {
                 "id": "f25e0549-1fc5-48d2-a429-22bb6699ba2a",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "67f4afcc-effa-4f04-b35d-156991f29976",
+            "Value": {
+                "id": "aacd3e59-9d88-4a23-bd51-db9821626d35",
+                "resourcePath": "objects\\control\\control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cfb06a3-80cc-45d2-947a-d40115156d97",
             "Value": {
                 "id": "9c463a18-a5fc-4f49-a0ec-f86d8fc20719",
@@ -103,11 +119,27 @@
             }
         },
         {
+            "Key": "78026261-0b7a-47ce-a8b9-f879ce67d561",
+            "Value": {
+                "id": "0d99c311-d5ab-4b28-a614-79ee56f2addf",
+                "resourcePath": "sprites\\catch_sprt\\catch_sprt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7980668c-e0b6-46ad-8fef-46a5580f1743",
             "Value": {
                 "id": "3d88912b-5121-4046-9a7b-91b637ba55c1",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "79aa6ce0-c54d-4015-b57c-49f8614291a0",
+            "Value": {
+                "id": "810f22c6-678c-4f87-b444-f0f1206af3a2",
+                "resourcePath": "shaders\\pause_shader\\pause_shader.yy",
+                "resourceType": "GMShader"
             }
         },
         {
