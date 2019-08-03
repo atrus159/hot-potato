@@ -1,4 +1,5 @@
 /// @description
 // You can write your code in this editor
 
-	draw_self()
+ds_list_destroy(x_list);
+ds_list_destroy(y_list);

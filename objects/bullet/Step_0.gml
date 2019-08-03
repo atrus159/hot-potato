@@ -6,17 +6,6 @@ if (global.paused == false){
 	
 	motion_set(bl_dir, bl_speed);
 	
-		//trail effect list 
-
-	ds_list_add(x_list, x);
-	ds_list_add(y_list, y);
-	if (ds_list_size(x_list) > blt_num) { 
-		//number of points on trail. We only need to check one list, 
-		//since their sizes are synchronized
-	  ds_list_delete(x_list, 0);
-	  ds_list_delete(y_list, 0);
-	}
-	
 	//create the bullet trail
 	
 	//for ( var i = 0; i < blt_num; i ++){

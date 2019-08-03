@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "6b5a6c23-7663-4efb-88d4-61ea67c83902",
+            "Value": {
+                "id": "44690d53-5d95-4f99-9200-ef0876037106",
+                "resourcePath": "objects\\bullet_trail\\bullet_trail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cfb06a3-80cc-45d2-947a-d40115156d97",
             "Value": {
                 "id": "9c463a18-a5fc-4f49-a0ec-f86d8fc20719",
