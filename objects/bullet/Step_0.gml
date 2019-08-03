@@ -3,7 +3,7 @@
 
 if (global.paused == false){
 	
-	motion_add(bl_dir, bl_speed);
+	motion_set(bl_dir, bl_speed);
 	
 	//create the bullet trail
 	
@@ -12,7 +12,11 @@ if (global.paused == false){
 		var blt;
 		blt = instance_create_depth( lengthdir_x( i + 1, bl_dir + 180) , lengthdir_y(i + 1, bl_dir + 180), 0,  bullet_trail);
 		with (blt){
-			blt_alpha = blt_alpha / i;
+			blt_x = lengthdir_x(i + 2, other.bl_dir + 180);
+			blt_y = lengthdir_y(i + 2, other.bl_dir + 180);
+			blt_r = bullet.bl_r - i;
+			blt_alpha = blt_alpha / (i+1);
+			
 		}
 	}
 	
