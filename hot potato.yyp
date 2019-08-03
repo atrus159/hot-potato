@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0561a6e7-ac2d-4241-98b4-da81912cca33",
+            "Value": {
+                "id": "f25e0549-1fc5-48d2-a429-22bb6699ba2a",
+                "resourcePath": "objects\\potato\\potato.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07c6c2dd-8f25-4cc7-8550-c66f14b208b5",
             "Value": {
                 "id": "b2a9408a-1f36-4377-a6aa-0ab49dc3de01",
@@ -71,11 +79,35 @@
             }
         },
         {
+            "Key": "3ed959a5-2d22-44dd-bf3f-6f04ff320dc4",
+            "Value": {
+                "id": "af4194d2-d461-4df0-97ac-bcbcee7e6b90",
+                "resourcePath": "sprites\\potato_sprt\\potato_sprt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6cfb06a3-80cc-45d2-947a-d40115156d97",
             "Value": {
                 "id": "9c463a18-a5fc-4f49-a0ec-f86d8fc20719",
                 "resourcePath": "views\\6cfb06a3-80cc-45d2-947a-d40115156d97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70541473-8c71-44f5-b178-540cdad3b329",
+            "Value": {
+                "id": "74be23ee-66db-4c8d-8939-ccf6428bc306",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "7980668c-e0b6-46ad-8fef-46a5580f1743",
+            "Value": {
+                "id": "3d88912b-5121-4046-9a7b-91b637ba55c1",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -119,11 +151,27 @@
             }
         },
         {
+            "Key": "a17ca600-c440-4c3b-8a42-e5a60815243b",
+            "Value": {
+                "id": "808d0b2b-d75b-46dc-b89c-c5bb63fb01e9",
+                "resourcePath": "sprites\\wall_sprt\\wall_sprt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a70d17ee-7cde-4ce0-a8f5-8df67a95d782",
             "Value": {
                 "id": "6ae8ba4a-1d5a-484b-97cd-7991fa2384a7",
                 "resourcePath": "views\\a70d17ee-7cde-4ce0-a8f5-8df67a95d782.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a74189d3-e7b4-47d6-a384-b81970b0f026",
+            "Value": {
+                "id": "d043433a-0537-406e-a6aa-e3e8555b9051",
+                "resourcePath": "objects\\wall\\wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
