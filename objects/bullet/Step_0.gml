@@ -16,7 +16,10 @@ if (global.paused == false){
 			blt_y = y+lengthdir_y(i + 2, other.bl_dir + 180);
 			blt_r = bullet.bl_r - i;
 			blt_alpha = blt_alpha / (i+1);
-			
+			if (blt_alpha <= 0.1){
+				instance_destroy(blt);
+							}
+
 		}
 	}
 	
