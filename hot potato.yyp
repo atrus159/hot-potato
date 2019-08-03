@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "319dd346-8134-4d7f-ab21-bb3467530abd",
+            "Value": {
+                "id": "95898dd8-2f23-4ec1-9496-87db3d7b126a",
+                "resourcePath": "sprites\\bullet_die\\bullet_die.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ed959a5-2d22-44dd-bf3f-6f04ff320dc4",
             "Value": {
                 "id": "af4194d2-d461-4df0-97ac-bcbcee7e6b90",
