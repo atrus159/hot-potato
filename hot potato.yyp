@@ -98,7 +98,7 @@
             "Key": "319dd346-8134-4d7f-ab21-bb3467530abd",
             "Value": {
                 "id": "95898dd8-2f23-4ec1-9496-87db3d7b126a",
-                "resourcePath": "sprites\\bullet_die\\bullet_die.yy",
+                "resourcePath": "sprites\\bullet_die_anim\\bullet_die_anim.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "9c9ac4cb-d474-4751-801f-480e75908fdc",
+            "Value": {
+                "id": "ed7e53c0-530b-4995-97f5-63073de431c2",
+                "resourcePath": "sprites\\dog_jump_anim\\dog_jump_anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9d8fef11-2325-4e8d-8ce2-a1b6771f60fb",
             "Value": {
                 "id": "44134104-7cd2-47d3-b660-74f729bc0b8b",
@@ -284,6 +292,14 @@
                 "id": "667cb50a-e550-4c88-beb8-e187dede25eb",
                 "resourcePath": "views\\be53a8c9-4d9a-419f-9987-7054a972caf3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5ec13c8-d02b-47d3-b3bb-9dfbdb707d4d",
+            "Value": {
+                "id": "9e3ec812-b0dc-4e80-b28b-2e632f279098",
+                "resourcePath": "sprites\\dog_hit_anim\\dog_hit_anim.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

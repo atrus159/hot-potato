@@ -2,7 +2,7 @@
     "id": "319dd346-8134-4d7f-ab21-bb3467530abd",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "bullet_die",
+    "name": "bullet_die_anim",
     "For3D": false,
     "HTile": false,
     "VTile": false,
