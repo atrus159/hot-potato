@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "d0b0957a-72ad-44b9-a731-4d4c78d6d4ff",
+            "Value": {
+                "id": "9fa69d57-14ff-4c50-86c1-5d0385ee4c0d",
+                "resourcePath": "sprites\\stopwatch\\stopwatch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5e9b684-59db-4fb3-bb4f-d8d491c5289f",
             "Value": {
                 "id": "891d4597-1a26-460d-af13-d5d0d3c774cd",
