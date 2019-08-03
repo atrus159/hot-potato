@@ -3,12 +3,13 @@
 
 bl_speed = 7;
 bl_dir = image_angle;
-bl_r = 10;
 
 
 //bullet trail
 
-blt_num = 10;
+blt_num = 100;
 
 
-
+//trail effect
+x_list = ds_list_create();
+y_list = ds_list_create();
