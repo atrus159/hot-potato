@@ -95,11 +95,27 @@
             }
         },
         {
+            "Key": "2f25a905-80d2-4d21-b11d-8de4a90d2d10",
+            "Value": {
+                "id": "8abbecc1-0fa0-4b50-9502-30e009bc9b8a",
+                "resourcePath": "sprites\\break_wall_srpt\\break_wall_srpt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "319dd346-8134-4d7f-ab21-bb3467530abd",
             "Value": {
                 "id": "95898dd8-2f23-4ec1-9496-87db3d7b126a",
                 "resourcePath": "sprites\\bullet_die_anim\\bullet_die_anim.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "35d27cdb-942e-49ee-8f98-d5ce300d1ae8",
+            "Value": {
+                "id": "4e11b920-3826-4bfb-b43e-6540b547a52c",
+                "resourcePath": "rooms\\level_1_2\\level_1_2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -119,10 +135,34 @@
             }
         },
         {
+            "Key": "4445759a-130a-4e2c-8313-a7b7267a0ec5",
+            "Value": {
+                "id": "533f1f77-2f09-4eae-a29d-5718a886b2ac",
+                "resourcePath": "objects\\bullet_explode\\bullet_explode.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d2226b7-8473-45d9-a4d8-12155c55b147",
             "Value": {
                 "id": "6be39302-9cc9-4402-b37c-fbcd54a8cdc0",
                 "resourcePath": "sprites\\bullet_sprt\\bullet_sprt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "512bb9ad-702f-497f-8571-a1d0680dfc47",
+            "Value": {
+                "id": "d6ae6427-0d41-410c-9135-0aade6360b02",
+                "resourcePath": "objects\\goal\\goal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5a3e5850-e148-4daa-a624-902b0618f091",
+            "Value": {
+                "id": "d4f1d746-acca-43e1-a182-d7aebad31c8c",
+                "resourcePath": "sprites\\goal_sprt\\goal_sprt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -159,19 +199,27 @@
             }
         },
         {
+            "Key": "754ded6f-e0a0-4340-9a5b-a8959a3cd8e0",
+            "Value": {
+                "id": "7711f85f-963c-41ae-a8c9-cbd99b527265",
+                "resourcePath": "rooms\\level_3_2\\level_3_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7784ccd7-44be-4bd9-8ead-c546995ea9cd",
+            "Value": {
+                "id": "50378720-8278-4bc5-9401-4bf40869a653",
+                "resourcePath": "rooms\\level_3_1\\level_3_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "78026261-0b7a-47ce-a8b9-f879ce67d561",
             "Value": {
                 "id": "0d99c311-d5ab-4b28-a614-79ee56f2addf",
                 "resourcePath": "sprites\\catch_sprt\\catch_sprt.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7980668c-e0b6-46ad-8fef-46a5580f1743",
-            "Value": {
-                "id": "3d88912b-5121-4046-9a7b-91b637ba55c1",
-                "resourcePath": "rooms\\room1\\room1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -194,7 +242,7 @@
             "Key": "8bdbed6b-19ad-4e87-ab43-aeba4fb8d786",
             "Value": {
                 "id": "b2bbd5ca-5b37-4329-8441-157675d1c5a3",
-                "resourcePath": "rooms\\level_1\\level_1.yy",
+                "resourcePath": "rooms\\level_1_1\\level_1_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -202,7 +250,15 @@
             "Key": "8c787980-b99f-48a5-96b5-c4fa39036eef",
             "Value": {
                 "id": "2720f79c-8443-41eb-be6f-0ad2ee05fd3d",
-                "resourcePath": "rooms\\level_3\\level_3.yy",
+                "resourcePath": "rooms\\level_2_1\\level_2_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "91e82dfa-04e4-4373-b27c-188cc1a92ab7",
+            "Value": {
+                "id": "7de3f87b-5550-4c79-b531-51243828b230",
+                "resourcePath": "rooms\\level_1_3\\level_1_3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -250,7 +306,7 @@
             "Key": "9e177109-0bbd-4edc-8445-cbee45d9b263",
             "Value": {
                 "id": "8de7f73e-4596-449f-ab1f-50e0749683f9",
-                "resourcePath": "rooms\\level_2\\level_2.yy",
+                "resourcePath": "rooms\\level_1_4\\level_1_4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -295,6 +351,14 @@
             }
         },
         {
+            "Key": "ba042ecf-c0c0-4908-94df-6752cc24da84",
+            "Value": {
+                "id": "9ba39ded-69de-4a74-8a91-29ed8aa98935",
+                "resourcePath": "rooms\\level_2_2\\level_2_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "be53a8c9-4d9a-419f-9987-7054a972caf3",
             "Value": {
                 "id": "667cb50a-e550-4c88-beb8-e187dede25eb",
@@ -327,11 +391,19 @@
             }
         },
         {
-            "Key": "d6334502-6373-4814-a5be-6bf96cebdeae",
+            "Key": "dd0d2ac4-1e41-4e8d-a638-fdc5c7cbc02b",
             "Value": {
-                "id": "59098b3b-3bc2-4130-a474-200eb00f15d0",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "id": "f7f67bd6-02ce-4bd1-a8fa-1ee5037e7e3d",
+                "resourcePath": "rooms\\level_2_3\\level_2_3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ddbf5272-5b34-4dea-98c3-62d630561fda",
+            "Value": {
+                "id": "0057f08d-f2b2-4c53-a3f3-c44e0b74ab5c",
+                "resourcePath": "objects\\break_wall\\break_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {

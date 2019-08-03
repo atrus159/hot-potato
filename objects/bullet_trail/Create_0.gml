@@ -9,3 +9,4 @@ blt_alpha = 1;
 //trail effect
 x_list = ds_list_create();
 y_list = ds_list_create();
+myBullet = noone

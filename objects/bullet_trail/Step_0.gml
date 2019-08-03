@@ -2,9 +2,10 @@
 // You can write your code in this editor
 
 	//trail effect list 
-
-	ds_list_add(x_list, bullet.x);
-	ds_list_add(y_list, bullet.y);
+	if(instance_exists(myBullet)){
+	ds_list_add(x_list, myBullet.x);
+	ds_list_add(y_list, myBullet.y);
+	}
 	if (ds_list_size(x_list) > blt_num) { 
 		//number of points on trail. We only need to check one list, 
 		//since their sizes are synchronized

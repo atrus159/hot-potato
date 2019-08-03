@@ -21,7 +21,7 @@ if (global.paused == false){
 	  while (x0 < x1) {
 	    // replace sprite_to_tile_along_trail with your trail sprite
 	    // this just draws subimage 0 of your trail sprite rotated to match `dir`
-	    draw_sprite_ext(bullet_trail_sprt, 0, x0, y0, 1, 1, dir, c_white, blt_alpha);
+	    draw_sprite_ext(bullet_trail_sprt, 0, x0, y0, 1, 1, dir, c_white, 1);
 
 	    x0 += x_offset;
 	    y0 += y_offset;

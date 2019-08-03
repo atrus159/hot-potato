@@ -4,4 +4,5 @@
 bl_speed = 7;
 bl_dir = image_angle;
 
-instance_create_depth(x,y,0,bullet_trail);
+/*var myTrail = instance_create_depth(x,y,0,bullet_trail);
+myTrail.myBullet = id*/
