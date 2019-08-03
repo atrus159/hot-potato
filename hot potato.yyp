@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "495e6cf2-6aac-4e2b-81bd-00dc392ee23e",
+            "Value": {
+                "id": "de157baf-601b-4bb0-b5fd-b784ade717b2",
+                "resourcePath": "rooms\\level_3_21\\level_3_21.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4d2226b7-8473-45d9-a4d8-12155c55b147",
             "Value": {
                 "id": "6be39302-9cc9-4402-b37c-fbcd54a8cdc0",
@@ -412,6 +420,14 @@
                 "id": "0057f08d-f2b2-4c53-a3f3-c44e0b74ab5c",
                 "resourcePath": "objects\\break_wall\\break_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eec2e5c9-3bb9-419d-a755-49e15e8c67bd",
+            "Value": {
+                "id": "e913046e-eb13-45e9-bd1e-5a436a6a6274",
+                "resourcePath": "shaders\\shader1\\shader1.yy",
+                "resourceType": "GMShader"
             }
         },
         {
