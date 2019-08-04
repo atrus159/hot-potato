@@ -8,4 +8,5 @@ if(instance_exists(group)){
 			myGroup.active = 1
 		}
 	}
+	run_mode = 0
 }

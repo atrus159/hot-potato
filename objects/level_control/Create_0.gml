@@ -16,3 +16,4 @@ myGroup.active = 1
 
 run_mode = 0
 
+restart_flag = 0

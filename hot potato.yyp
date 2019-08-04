@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "12f505c2-891c-4709-bd85-c723e099db1e",
+            "Value": {
+                "id": "96ca6cbe-8f13-4603-8ccd-470391d8ea25",
+                "resourcePath": "sprites\\background_21\\background_21.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "189b6b41-5b36-409d-9826-2c1bb95397bf",
             "Value": {
                 "id": "4b734917-ccd9-4233-8099-3aa4516a6699",
@@ -415,11 +423,27 @@
             }
         },
         {
+            "Key": "7ed6f3ae-4bb2-423d-af74-f1af9e92b150",
+            "Value": {
+                "id": "69846df9-a8ac-40d4-af5f-c82f87f7a97d",
+                "resourcePath": "sprites\\background_31\\background_31.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8153dcd2-fa93-4d08-a2c8-976949de60db",
             "Value": {
                 "id": "aaec16cd-35ae-4ae4-b5e1-472a5664a231",
                 "resourcePath": "objects\\level_control\\level_control.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "820b9a78-9e26-414b-8d33-a3ba9d776f1c",
+            "Value": {
+                "id": "3f0d9415-c391-4730-ae47-470cb3e962a2",
+                "resourcePath": "sprites\\background_11\\background_11.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -643,6 +667,14 @@
             "Value": {
                 "id": "f3db7415-d21c-4808-83d0-307a730f20e4",
                 "resourcePath": "sprites\\background_4\\background_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c45c16fb-fe11-48b8-915b-03b0041e7c7f",
+            "Value": {
+                "id": "4cce6a3a-4987-4502-be9c-a11a11785588",
+                "resourcePath": "sprites\\background_41\\background_41.yy",
                 "resourceType": "GMSprite"
             }
         },
