@@ -17,8 +17,12 @@
         "8c83f235-4a4b-4e5d-8b17-cf8be856f1fd",
         "4110247c-09ab-41fd-8805-7ee126747e09",
         "1a23aaaa-58c5-48cd-aa56-f23c10e36b92",
+        "563796c4-b7fb-4da1-b927-47ba922fe49b",
+        "7cf2f1de-cfb2-45f3-8aec-cf7fd5ac123a",
         "4315958d-1aee-4cb6-bf91-5e83e751d4b5",
-        "3466e0f6-9b7c-4184-a455-de84ccc492be"
+        "3466e0f6-9b7c-4184-a455-de84ccc492be",
+        "9b31ce58-4b49-46db-9b63-461e411f46f8",
+        "dab17cea-65a6-4e62-9db8-742410025692"
     ],
     "filterType": "GMObject",
     "folderName": "button",

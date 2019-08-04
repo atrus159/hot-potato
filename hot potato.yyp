@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "563796c4-b7fb-4da1-b927-47ba922fe49b",
+            "Value": {
+                "id": "4ee3dd7a-4108-45f7-96ee-30be7d35ef78",
+                "resourcePath": "objects\\button_2_5\\button_2_5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57d36316-839a-4b4b-9a89-342e3dc9875e",
             "Value": {
                 "id": "5a4d28f1-c0a7-4ca8-bdcc-df2832603094",
@@ -420,6 +428,14 @@
                 "id": "810f22c6-678c-4f87-b444-f0f1206af3a2",
                 "resourcePath": "shaders\\pause_shader\\pause_shader.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "7cf2f1de-cfb2-45f3-8aec-cf7fd5ac123a",
+            "Value": {
+                "id": "4b238c22-65b3-4cce-bdee-51e38aac9383",
+                "resourcePath": "objects\\button_2_6\\button_2_6.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -540,6 +556,14 @@
                 "id": "136de4ff-46be-406c-bf1c-cab3f3cd130a",
                 "resourcePath": "views\\979ea3ef-feb2-4db8-b923-3f1027ed7528.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9b31ce58-4b49-46db-9b63-461e411f46f8",
+            "Value": {
+                "id": "37c6d2c6-54c7-4f76-a13f-2a0efea8a107",
+                "resourcePath": "objects\\button_3_3\\button_3_3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -739,6 +763,14 @@
             "Value": {
                 "id": "891d4597-1a26-460d-af13-d5d0d3c774cd",
                 "resourcePath": "objects\\bullet\\bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dab17cea-65a6-4e62-9db8-742410025692",
+            "Value": {
+                "id": "44612e46-3dae-464f-8b5f-4c533e34bfb4",
+                "resourcePath": "objects\\button_3_4\\button_3_4.yy",
                 "resourceType": "GMObject"
             }
         },
