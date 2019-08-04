@@ -5,7 +5,9 @@
     "name": "f26cf53f-ba71-451d-9533-ea241a699c65",
     "children": [
         "61d24f24-1254-48cf-9a26-6a0e7fd86dce",
-        "754ded6f-e0a0-4340-9a5b-a8959a3cd8e0"
+        "754ded6f-e0a0-4340-9a5b-a8959a3cd8e0",
+        "345d285f-6e16-4f36-abac-e362060be96e",
+        "aa5eb917-5dd2-413d-a1d0-ab8a49b6ab51"
     ],
     "filterType": "GMRoom",
     "folderName": "group2",
