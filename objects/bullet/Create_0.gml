@@ -1,7 +1,7 @@
 /// @description 
 // You can write your code in this editor
 
-bl_speed = 2;
+bl_speed = 7;
 bl_dir = image_angle;
 
 //the create of particle system
