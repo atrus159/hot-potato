@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "21a78e4b-e7bf-4083-a057-11a4deaec88a",
+            "Value": {
+                "id": "3e88637b-6c02-4ca8-9d73-c6766d3220f9",
+                "resourcePath": "sprites\\potato_jump_anim\\potato_jump_anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c80e2b8-20f0-4e3e-82f1-658297b115a9",
             "Value": {
                 "id": "0993e1ad-e204-4462-97ee-2e71acf821fc",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "4c7523e3-b93a-47ee-b113-755d420fe9db",
+            "Value": {
+                "id": "6eb18b16-ca58-41eb-9a55-ff384ae34b5b",
+                "resourcePath": "sprites\\potato_hit_anim\\potato_hit_anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d2226b7-8473-45d9-a4d8-12155c55b147",
             "Value": {
                 "id": "6be39302-9cc9-4402-b37c-fbcd54a8cdc0",
@@ -220,6 +236,14 @@
                 "id": "9c463a18-a5fc-4f49-a0ec-f86d8fc20719",
                 "resourcePath": "views\\6cfb06a3-80cc-45d2-947a-d40115156d97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6dac288c-d3f8-445a-8102-79f9521d9b98",
+            "Value": {
+                "id": "03763254-6746-4c67-b21f-1796da25fd77",
+                "resourcePath": "sprites\\potato_die_anim\\potato_die_anim.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
