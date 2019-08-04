@@ -1,0 +1,1 @@
+draw_sprite(sprite_index,mouseOver,x,y)
