@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0a8c915f-f497-47af-84a3-37d8a85aef41",
+            "Value": {
+                "id": "61f6f0b2-18b8-49e1-b894-25723c4781db",
+                "resourcePath": "sprites\\lock\\lock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b135680-dc1f-4829-8394-568894c09e09",
             "Value": {
                 "id": "c65c3677-b699-4301-a022-ec495ba0cb7d",
@@ -100,6 +108,14 @@
                 "id": "d4b982c5-e9d8-4176-a87e-dc492e8cf43a",
                 "resourcePath": "views\\1033b429-b360-4fb3-9c75-cf677a4ff042.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1277abc9-ae26-40ef-b452-6b5f22e966bc",
+            "Value": {
+                "id": "00338bd4-9164-48ee-9aa6-a027ce658cad",
+                "resourcePath": "sprites\\lock_open_sprt\\lock_open_sprt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +156,22 @@
                 "id": "9c73c2b4-2261-48a6-a251-6b788995e8de",
                 "resourcePath": "objects\\button_2_4\\button_2_4.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1df72536-ed9f-4894-a60d-47a91ca81d63",
+            "Value": {
+                "id": "cfd34d86-9e34-4b06-a413-d9129d08a1e3",
+                "resourcePath": "sprites\\coin_sprt_2\\coin_sprt_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2061a029-d486-44f9-a087-b58bef0f50f2",
+            "Value": {
+                "id": "200b1582-b18a-4a13-969a-bb9934240fe7",
+                "resourcePath": "sprites\\coin_sprt\\coin_sprt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -748,6 +780,14 @@
                 "id": "f2a6e07c-db93-4901-a62f-1ca7c1647181",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd25681f-161c-4dce-8ef3-5d6b6d5d5bdf",
+            "Value": {
+                "id": "e7a8c32f-b6ac-483a-9e93-dbce84842f54",
+                "resourcePath": "objects\\coin\\coin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
