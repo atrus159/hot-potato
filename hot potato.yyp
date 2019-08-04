@@ -484,7 +484,9 @@
                 "id": "22a8761f-5a30-496d-b4e0-5a168f2baaff",
                 "resourcePath": "rooms\\level_1_6\\level_1_6.yy",
                 "resourceType": "GMRoom"
-        }       
+            }
+        },
+        {       
             "Key": "c1889e12-f53a-4d4a-befa-0339e4452b5b",
             "Value": {
                 "id": "f3db7415-d21c-4808-83d0-307a730f20e4",
