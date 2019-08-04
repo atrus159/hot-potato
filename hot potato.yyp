@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "52d7a636-3db8-472c-85c1-a943703abb30",
+            "Value": {
+                "id": "f30395de-58ce-4646-87a7-fddb687ecc42",
+                "resourcePath": "sounds\\wow\\wow.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5a3e5850-e148-4daa-a624-902b0618f091",
             "Value": {
                 "id": "d4f1d746-acca-43e1-a182-d7aebad31c8c",
