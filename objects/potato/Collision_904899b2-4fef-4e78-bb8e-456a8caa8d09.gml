@@ -1,5 +1,6 @@
+if(sprite_index != potato_die_anim){
 global.shake = 10;
-
+sprite_index = potato_hit_anim
 with(other){
 var bar1 = image_angle - (180 - darctan2(image_yscale, image_xscale))
 var bar2 = bar1 + 180
@@ -20,4 +21,4 @@ pDir = normal - direction_dif
 //activate the burst
 //change to create for some bugging reason
 part_particles_create(ps_potato, x, y, par_potato, 20 + irandom(20) );
-
+}

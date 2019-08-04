@@ -4,6 +4,8 @@
 bl_speed = 7;
 bl_dir = image_angle;
 
+image_xscale = 2
+image_yscale = 2
 //the create of particle system
 
 
