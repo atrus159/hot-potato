@@ -18,7 +18,7 @@ part_system_depth(ps_potato, 0);
 par_potato = part_type_create();
 part_type_shape(par_potato,pt_shape_explosion);
 part_type_scale(par_potato,1,1);
-part_type_size(par_potato, 0.1, 0.5, - 0.01, 0); 
+part_type_size(par_potato, 0.75, 1.5, - 0.02, 0); 
 //part_type_size(ind, size_min, size_max, size_incr, size_wiggle).
 /*
 ind is the particle variable. 
@@ -47,7 +47,8 @@ part_type_direction(par_potato,0,359,0,0);
 
 //add gravity value to parts, not sure if its necessary, will test later
 //is this case, the direction will be the opposite direction of the bullet.
-part_type_gravity(par_potato,0.02,90);//part_type_gravity(ind, grav_amount, grav_direction)
+par_potato_direction = pDir;
+part_type_gravity(par_potato,0.1,par_potato_direction);//part_type_gravity(ind, grav_amount, grav_direction)
 
 //orientation of the parts, important for the appreance
 part_type_orientation(par_potato, 0, 359, 10, 0, true);
@@ -63,7 +64,3 @@ part_type_blend(par_potato,true);
 //next is the creation of the emitter system
 
 emit_potato = part_emitter_create(ps_potato);
-
-//x,y value to keep track of the potato
-potato_x = x;
-potato_y = y;

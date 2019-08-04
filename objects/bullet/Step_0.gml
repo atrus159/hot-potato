@@ -15,7 +15,7 @@ if (global.paused == false){
 	part_emitter_region(trail_system, par_emit, x - 5, x + 5, y -5 , y + 5, 0,0);
 	
     //activate the burst
-	part_emitter_burst(trail_system ,par_emit , par_blt , 5);
+	part_emitter_burst(trail_system ,par_emit , par_blt , 5 + irandom(5) );
 	//(ps, emit, partype, number of particles)
 	
 	

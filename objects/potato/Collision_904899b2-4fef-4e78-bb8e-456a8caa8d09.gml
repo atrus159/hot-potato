@@ -16,9 +16,8 @@ if(abs(angle_difference(angleTo, other.image_angle+180)) < abs(angle_difference(
 
 var direction_dif = 180 + pDir - normal
 pDir = normal - direction_dif
-
-	//some effect when it hits the wall
-	part_emitter_region(ps_potato, par_potato, potato_x - 30, potato_x + 30, potato_y - 30 , potato_y + 30, 0,0);
 	
-    //activate the burst
-	part_emitter_burst(ps_potato , emit_potato , par_potato , 10);
+//activate the burst
+//change to create for some bugging reason
+part_particles_create(ps_potato, x, y, par_potato, 20);
+
