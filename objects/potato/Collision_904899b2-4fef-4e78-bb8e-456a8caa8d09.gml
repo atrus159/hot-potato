@@ -19,5 +19,5 @@ pDir = normal - direction_dif
 	
 //activate the burst
 //change to create for some bugging reason
-part_particles_create(ps_potato, x, y, par_potato, 20);
+part_particles_create(ps_potato, x, y, par_potato, 20 + irandom(20) );
 
