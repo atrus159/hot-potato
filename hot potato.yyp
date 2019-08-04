@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0debff44-04cb-4772-b5a2-95a77a435b34",
+            "Value": {
+                "id": "d2138059-1d97-4102-8f8e-480ede8cd63e",
+                "resourcePath": "objects\\dog\\dog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1033b429-b360-4fb3-9c75-cf677a4ff042",
             "Value": {
                 "id": "d4b982c5-e9d8-4176-a87e-dc492e8cf43a",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "be79f68a-2de9-4f05-9ba8-b72e385d8eeb",
+            "Value": {
+                "id": "22a8761f-5a30-496d-b4e0-5a168f2baaff",
+                "resourcePath": "rooms\\level_1_6\\level_1_6.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {       
             "Key": "c1889e12-f53a-4d4a-befa-0339e4452b5b",
             "Value": {
                 "id": "f3db7415-d21c-4808-83d0-307a730f20e4",
@@ -548,6 +564,14 @@
                 "id": "0057f08d-f2b2-4c53-a3f3-c44e0b74ab5c",
                 "resourcePath": "objects\\break_wall\\break_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e7e4d9c2-444e-418a-a351-ca2ea734a141",
+            "Value": {
+                "id": "56de6ac8-cf43-4d70-aac0-76d3137cfa7d",
+                "resourcePath": "rooms\\level_1_5\\level_1_5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
