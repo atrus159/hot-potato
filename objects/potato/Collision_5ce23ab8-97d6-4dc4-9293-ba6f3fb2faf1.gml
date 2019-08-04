@@ -1,3 +1,5 @@
+if(sprite_index != potato_die_anim){
+sprite_index = potato_hit_anim
 with(other){
 var bar1 = image_angle - (180 - darctan2(image_yscale, image_xscale))
 var bar2 = bar1 + 180
@@ -15,3 +17,4 @@ if(abs(angle_difference(angleTo, other.image_angle+180)) < abs(angle_difference(
 var direction_dif = 180 + pDir - normal
 pDir = normal - direction_dif
 instance_destroy(other)
+}
