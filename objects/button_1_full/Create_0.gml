@@ -1,4 +1,4 @@
 event_inherited()
 myLevel = level_1_1
-myText = "group 1 (full)"
+myText = "Play Group 1"
 fullRun = 1

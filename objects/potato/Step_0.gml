@@ -23,4 +23,6 @@ if(pDir>360){
 if(pDir <0){
 	pDir +=360	
 }
-
+if(sprite_index == potato_win){
+	pSpeed /=1.1
+}

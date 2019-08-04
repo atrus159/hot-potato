@@ -1,4 +1,5 @@
-if(sprite_index != potato_die_anim){
+if(sprite_index != potato_die_anim && sprite_index != potato_win){
+		audio_play_sound(wood_break,1,0);
 sprite_index = potato_hit_anim
 with(other){
 var bar1 = image_angle - (180 - darctan2(image_yscale, image_xscale))

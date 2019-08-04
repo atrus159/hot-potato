@@ -1,4 +1,5 @@
-if(sprite_index != potato_die_anim){
+if(sprite_index != potato_die_anim && sprite_index != potato_win){
+	audio_play_sound(bounce,1,0);
 global.shake = 10;
 sprite_index = potato_hit_anim
 with(other){

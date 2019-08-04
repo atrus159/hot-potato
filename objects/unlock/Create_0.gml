@@ -1,0 +1,1 @@
+audio_play_sound(lock_open,1,0);
