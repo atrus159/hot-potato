@@ -13,3 +13,6 @@ if(pDir>360){
 if(pDir <0){
 	pDir +=360	
 }
+
+potato_x = x;
+potato_y = y;
