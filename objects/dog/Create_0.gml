@@ -8,4 +8,7 @@ sprite_index = dog_jump_anim;
 time_count = 0;
 time_total = 60;
 
+//is still spawning bullet
+isBullet = true;
+
 

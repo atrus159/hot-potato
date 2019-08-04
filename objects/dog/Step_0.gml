@@ -5,7 +5,7 @@ if (global.paused == false){
 		
 		
 		time_count += 1;
-		if (time_count == time_total){
+		if (time_count == time_total && isBullet == true){
 		instance_create_depth(x, y, 0, bullet);
 		time_count = 0;
 			}
