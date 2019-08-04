@@ -1,3 +1,5 @@
+global.shake = 10;
+
 with(other){
 var bar1 = image_angle - (180 - darctan2(image_yscale, image_xscale))
 var bar2 = bar1 + 180

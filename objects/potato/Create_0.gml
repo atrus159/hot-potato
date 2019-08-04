@@ -31,8 +31,7 @@ size_wiggle is slightly more complicated, so we’ll cover that in the advanced 
 */
 
 //change the color of the particles
-potato_color = make_color_rgb(171, 81, 48);
-part_type_color1(par_potato, potato_color); //color does not change in color1
+part_type_color1(par_potato, c_yellow); //color does not change in color1
 
 //set the alpha value
 part_type_alpha2(par_potato,1,0);
