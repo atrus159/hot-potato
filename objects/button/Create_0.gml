@@ -6,3 +6,4 @@ mouseOver = 0
 
 myLevel = level_1_1
 myText = "just the basics"
+fullRun = 1

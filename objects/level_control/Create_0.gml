@@ -15,5 +15,4 @@ var myGroup =  ds_list_find_value(group_list,0)
 myGroup.active = 1
 
 run_mode = 0
-create_flag = 1
 
