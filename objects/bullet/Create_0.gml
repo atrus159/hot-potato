@@ -37,7 +37,7 @@ size_wiggle is slightly more complicated, so we’ll cover that in the advanced 
 */
 
 //change the color of the particles
-part_type_color1(par_blt, c_red); //color does not change in color1
+part_type_color1(par_blt, c_white); //color does not change in color1
 
 //set the alpha value
 part_type_alpha2(par_blt,1,0);
