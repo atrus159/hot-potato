@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "933cb387-fabf-411d-8510-bd5f5570c127",
+            "Value": {
+                "id": "aef61b25-8578-47a8-8119-5c7cdc35763c",
+                "resourcePath": "objects\\camera\\camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95cfb7ec-8e6a-4829-a268-587e1bd0ad2e",
             "Value": {
                 "id": "a3b3e6f3-1a69-4152-81a5-d77cceb5548f",
@@ -396,6 +404,14 @@
                 "id": "0057f08d-f2b2-4c53-a3f3-c44e0b74ab5c",
                 "resourcePath": "objects\\break_wall\\break_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eec2e5c9-3bb9-419d-a755-49e15e8c67bd",
+            "Value": {
+                "id": "e913046e-eb13-45e9-bd1e-5a436a6a6274",
+                "resourcePath": "shaders\\shader1\\shader1.yy",
+                "resourceType": "GMShader"
             }
         },
         {
