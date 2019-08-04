@@ -9,8 +9,7 @@
         "c8fcf583-d21a-4ff5-b2bc-411ee499978e",
         "0b425c5d-5e48-41dd-b1fb-0dd92a877039",
         "b0d15d3c-b97e-4ebd-ba31-592be9dee6eb",
-        "8f164414-8056-4b37-b2f7-93160058bab0",
-        "c3ebf20a-85a9-48b7-ba0c-e9af89071363"
+        "8f164414-8056-4b37-b2f7-93160058bab0"
     ],
     "filterType": "GMRoom",
     "folderName": "group3",
