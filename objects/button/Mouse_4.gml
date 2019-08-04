@@ -1,1 +1,4 @@
-room_goto(myLevel)
+
+if(myGroup.active){
+	room_goto(myLevel)
+}
