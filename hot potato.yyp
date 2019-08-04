@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1a0ae572-7fa0-407e-a391-e1c8fb95a350",
+            "Value": {
+                "id": "35a921c1-8b65-4bb3-a02a-7688996a3a32",
+                "resourcePath": "sprites\\goal_anim\\goal_anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21a78e4b-e7bf-4083-a057-11a4deaec88a",
             "Value": {
                 "id": "3e88637b-6c02-4ca8-9d73-c6766d3220f9",
