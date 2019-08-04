@@ -16,13 +16,13 @@
         "131caf9c-23b3-4272-9ff2-0de6d02caffa",
         "a7cce025-3f48-4019-b098-9cb4709e1661",
         "bac6559d-767a-4d91-b2d9-0f5e01730490",
-        "2c5e7808-14ca-4959-9e6a-66ed453d4b28",
         "be3b5b75-355e-4a18-b151-1b650599e089",
         "7a97579a-3811-4cfc-aa87-e2707e537def",
         "ba524150-6a7a-47d5-9e45-eaf6bfd13c71",
         "226133e0-cc94-469e-8dd8-f10e80f6c9de",
         "1f6002ca-3ded-44c7-87bf-7f0f59b39654",
-        "0460e614-79f1-4209-872e-ea37b8137e85"
+        "0460e614-79f1-4209-872e-ea37b8137e85",
+        "2c5e7808-14ca-4959-9e6a-66ed453d4b28"
     ],
     "IsDnD": false,
     "layers": [
@@ -31,8 +31,8 @@
             "name": "Instances",
             "id": "5f45a4bd-3a03-4e8d-afd7-c5f6a95a8317",
             "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 16,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,

@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "345d285f-6e16-4f36-abac-e362060be96e",
+            "Value": {
+                "id": "396f522b-f420-46bc-9676-4f61a1792a55",
+                "resourcePath": "rooms\\level_3_3\\level_3_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3466e0f6-9b7c-4184-a455-de84ccc492be",
             "Value": {
                 "id": "e4d372c8-4104-4f16-88e8-0fc7a7260a2b",
@@ -607,11 +615,27 @@
             }
         },
         {
+            "Key": "aa5eb917-5dd2-413d-a1d0-ab8a49b6ab51",
+            "Value": {
+                "id": "03e447ee-bc77-4c8d-ad16-e27873e1b876",
+                "resourcePath": "rooms\\level_3_4\\level_3_4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ab364bb6-9ec1-4c82-a968-2fc3f3316763",
             "Value": {
                 "id": "f794470b-f0cf-4423-8a0f-f031c6f69024",
                 "resourcePath": "sprites\\scroll_sprt\\scroll_sprt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b2546230-097b-4f55-95b6-7489e088843e",
+            "Value": {
+                "id": "1ac6a87c-bb3b-48d2-a75b-be0c00700234",
+                "resourcePath": "rooms\\level_2_5\\level_2_5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -684,6 +708,14 @@
                 "id": "9e3ec812-b0dc-4e80-b28b-2e632f279098",
                 "resourcePath": "sprites\\dog_hit_anim\\dog_hit_anim.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c761f873-9e98-4a71-b9f3-552885b10273",
+            "Value": {
+                "id": "1bee509d-96eb-48ce-bbee-0d889e0fe445",
+                "resourcePath": "rooms\\level_2_6\\level_2_6.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
