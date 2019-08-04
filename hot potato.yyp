@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "a4f9af6e-1199-4cc0-9536-1da1c04e346e",
+            "Value": {
+                "id": "e6f8d10d-52c4-4ec2-8126-dcb942546534",
+                "resourcePath": "objects\\menu_sound\\menu_sound.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a70d17ee-7cde-4ce0-a8f5-8df67a95d782",
             "Value": {
                 "id": "6ae8ba4a-1d5a-484b-97cd-7991fa2384a7",
